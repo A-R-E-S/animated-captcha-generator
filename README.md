@@ -1,1 +1,1 @@
-# animated-captcha-generator
+# Animated captcha generator
