@@ -51,7 +51,7 @@ A flexible and powerful captcha generator for creating static (PNG) and animated
 
 | 🖼️ Static Captcha (PNG) | 🎞️ Animation Frame (GIF) |
 |:---:|:---:|
-| <img src="captchas/example.png" width="280"/> | <img src="captchas/example_frame.png" width="280"/> |
+| <img src="captchas/example.png" width="280"/> | <img src="captchas/7539343.gif" width="280"/> |
 
 ---
 
