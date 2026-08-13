@@ -12,7 +12,7 @@
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Pillow](https://img.shields.io/badge/Pillow-11.0+-7c4dff?style=flat-square&logo= pillow&logoColor=white)](https://python-pillow.org/)
+[![Pillow](https://img.shields.io/badge/Pillow-11.0+-7c4dff?style=flat-square&logo=pillow&logoColor=white)](https://python-pillow.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-2.0+-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-1.14+-0054a6?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
