@@ -1,16 +1,17 @@
-# Animated captcha generator
 [🇷🇺 Русский](README.md) • [🇬🇧 English](README_EN.md)
 
 <div align="center">
 
-# 🔢 Captcha Generator Studio
+# 🔢 Animated Captcha Generator
 
 **Python • Pillow • NumPy • SciPy**
 
-Гибкий и мощный генератор капч для генерации статичных (PNG) и анимированных (GIF) изображений. Создает сложные, устойчивые к OCR капчи с использованием математических искажений, кривых Безье и динамического размытия.
+Гибкий и мощный генератор капч для создания статичных (PNG) и анимированных (GIF) изображений. Создает сложные, устойчивые к OCR капчи с использованием математических искажений, кривых Безье и динамического размытия.
 
 <br>
 
+[![Stars](https://img.shields.io/github/stars/A-R-E-S/animated-captcha-generator?style=social)](https://github.com/A-R-E-S/animated-captcha-generator/stargazers)
+[![Forks](https://img.shields.io/github/forks/A-R-E-S/animated-captcha-generator?style=social)](https://github.com/A-R-E-S/animated-captcha-generator/network/members)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-11.0+-7c4dff?style=flat-square&logo=pillow&logoColor=white)](https://python-pillow.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-2.0+-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -64,8 +65,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ВАШ_НИК/captcha_generator_studio.git
-cd captcha_generator_studio
+git clone https://github.com/A-R-E-S/animated-captcha-generator.git
+cd animated-captcha-generator
 ```
 
 2. Создайте и активируйте виртуальное окружение (опционально, но рекомендуется):
@@ -120,3 +121,5 @@ python captcha_generator.py
 
 </div>
 
+
+---
