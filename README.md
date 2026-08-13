@@ -51,7 +51,7 @@
 
 | 🖼️ Статичная капча (PNG) | 🎞️ Кадр из анимации (GIF) |
 |:---:|:---:|
-| <img src="captchas/example.png" width="280"/> | <img src="captchas/example_frame.png" width="280"/> |
+| <img src="captchas/example.png" width="280"/> | <img src="captchas/7539343.gif" width="280"/> |
 
 ---
 
